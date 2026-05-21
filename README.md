@@ -1,1 +1,1 @@
-# first_project
+# first_project Aleksandr.Rybakov Тестовый репозиторий для работы с GitHub
