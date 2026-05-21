@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+*/venv
+*/.venv/
+_pucache_/
+*.pyc
+data/my_project/
+.DS_Store
+.ipynb_checkpoints/
+*.ssh
+*.pub
+*.pem
+E0F
