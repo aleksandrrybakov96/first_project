@@ -13,4 +13,5 @@ data/my_project/
 *.pem
 tmp_data.txt
 .env
+archive/
 E0F
