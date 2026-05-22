@@ -12,4 +12,5 @@ data/my_project/
 *.pub
 *.pem
 tmp_data.txt
+.env
 E0F
